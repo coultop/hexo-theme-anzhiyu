@@ -55,7 +55,7 @@ jobs:
       with:
         personal_token: ${{ secrets.PAT }}
         publish_dir: ./public
-        external_repository: coultop/coultop.github.io
+        external_repository: hexo-theme-anzhiyu-public
         user_name: "github-actions[bot]"
         user_email: "github-actions[bot]@users.noreply.github.com"
         full_commit_message: "通过 Github Actions 部署 Hexo 构建"
