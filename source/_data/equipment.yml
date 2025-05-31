@@ -1,0 +1,97 @@
+- class_name: 好物
+  description: 实物装备推荐
+  tip: 跟 罐頭 一起享受科技带来的乐趣
+  top_background: https://pixpro.coul.top/i/2025/04/17/427621.webp
+  good_things:
+    - title: 生产力
+      description: 提升自己生产效率的硬件设备
+      equipment_list:
+        - name: NuPhy Field75三模热插拔 
+          specification: 重力紫 75%配列+下沉方向键 TOP结构
+          description: Nuphy Field75 是75%配料的机械键盘，不过左侧和下方各增加了四个宏按键，方便游戏玩家设置组合键完成更多高难度操作 
+          image: https://pixpro.coul.top/i/2025/04/17/718327.webp
+          link: https://detail.tmall.com/item.htm?abbucket=15&id=726604311469&ns=1&priceTId=214781a417321668742413918e0887&spm=a21n57.sem.item.5.16083903NwmjHY&utparam=%7B%22aplus_abtest%22%3A%22284d4045b60022d3fa084869b755020a%22%7D&xxc=taobaoSearch&sku_properties=5919063%3A6536025%3B122216346%3A21958%3B122216808%3A56509918
+        - name: NuPhy Field75三模热插拔 
+          specification: 电感绿 75%配列+下沉方向键 TOP结构
+          description: Nuphy Field75 是75%配料的机械键盘，左侧的四个宏按键做了防误触处理，靠近字母的那部分有凹陷处理，上方是三模切换开关以及一个小齿轮旋钮，用于调节 RGB 亮度，非常方便。 
+          image: https://pixpro.coul.top/i/2025/04/17/194658.webp
+          link: https://detail.tmall.com/item.htm?abbucket=15&id=726604311469&ns=1&priceTId=214781a417321668742413918e0887&spm=a21n57.sem.item.5.16083903NwmjHY&utparam=%7B%22aplus_abtest%22%3A%22284d4045b60022d3fa084869b755020a%22%7D&xxc=taobaoSearch&sku_properties=5919063%3A6536025%3B122216346%3A21958%3B122216808%3A56509918
+        - name: 天选4 锐龙版
+          specification: R9 7940H/16GB/1TB/RTX4060/2.5K/165Hz/青
+          description: 事事玩得转，买前生产力，买后steam。
+          image: https://pixpro.coul.top/i/2025/04/17/234860.webp
+          link: https://detail.zol.com.cn/1554/1553656/param.shtml
+        - name: iPad mini7
+          specification: 紫色 / 128G
+          description: A17pro芯片搭配安全流畅的iOS系统，手持舒服；8.3英寸的屏幕，显示效果好但是粗黑边还是有点难绷
+          image: https://pixpro.coul.top/i/2025/04/17/405143.webp
+          link: https://www.apple.com.cn/
+        - name: MateBook E Go 性能版
+          specification: 骁龙8CX Gen3/16GB/512GB
+          description: 多形态随意切换！高刷新率护眼屏幕，学习、工作长时使用不累！
+          image: https://pixpro.coul.top/i/2025/04/17/930931.webp
+          link: https://www.realme.com/realme-gt-riven-a/specs
+        - name: 一加 Buds 3
+          specification: 深空灰
+          description: 配备“同轴双单元”，支持LHDC 5.0传输协议，搭载“黄金听感2.0”听音技术，配合一加 Ace 3等设备还可实现“全链路低延迟”及“多设备无缝流转”等功能。
+          image: https://pixpro.coul.top/i/2025/04/17/338073.webp
+          link: https://www.opposhop.cn/cn/web/products/26326.html
+        - name: OPPO Enco Free3
+          specification: 青霜白
+          description: OPPO Enco Free3前腔滤声系统，专为竹纤维振膜研制，二次提升高频表现，释放纯净音色。 后腔低音导管，有效增强低音能量，让音乐节奏扎实有力，影视音效更加震撼。
+          image: https://pixpro.coul.top/i/2025/04/17/822400.webp
+          link: https://www.oppo.com/cn/accessories/oppo-enco-free3/
+        - name: 漫步者 W830NB
+          specification: 云影灰
+          description: 漫步者W830NB运用神经网络降噪技术，助推DNN通话降噪强大性能，音频行业Hi-Res和Hi-Res WIRELESS有线无线双认证
+          image: https://pixpro.coul.top/i/2025/04/17/136795.webp
+          link: https://www.edifier.com/product/product-717.html
+
+    - title: 出行
+      description: 用来出行的实物及设备
+      equipment_list:
+        - name: 匡威 Straight Edge双肩包
+          specification: 棕色
+          description: CONVERS 匡威巧克力焦糖色背包 体闲复古书包帆布包 可装日常杂物，方便日常使用 经典的包型搭配品牌条纹元素 款式简约时尚 S型肩带，缓减压力！！防脱落，肩带部位添加泡棉缓解肩部受重力压迫挺括有型，收纳空问充足！
+          image: https://pixpro.coul.top/i/2025/04/17/163071.webp
+          link: https://m.dewu.com/rn-activity/community-share?trendId=140302820&shareId=vdL0jVo&source=picTrend&shareType=0&isScreenShot=0
+        - name: kokuyo国誉Noritake联名学生书包🎒
+          specification: 米白色
+          description: 以其大容量和减负设计，非常适合初中生和高中生使用。它的淡蓝色外观，不仅清新自然，还带有Noritake标志性的简约风格，男孩和猫咪的线描图案，增添了一份童趣和时尚感。书包的材质耐用，能够承受日常使用的磨损，而且内部的收纳设计合理，方便孩子整理书籍和文具，保持书包内部的整洁。
+          image: https://pixpro.coul.top/i/2025/04/17/369507.webp
+          link: https://detail.tmall.com/item.htm?abbucket=15&id=650787144615&ns=1&priceTId=213e377217321705354416770ea0c8&spm=a21n57.sem.item.9.36d43903FL9MQn&utparam=%7B%22aplus_abtest%22%3A%2213166548ddac6c96c6c53f8ef2ab2fe9%22%7D&xxc=taobaoSearch&skuId=4695833284094
+        - name: 不莱玫插画箱塔卡沙
+          specification: 绿狗 24英寸
+          description: 不莱玫插画箱塔卡沙，复古文艺，质感细腻，结实耐用，容量大，收纳方便，颜值高，做工精细，细节到位，质感好，结实耐用，容量大，收纳方便，颜值高，做工精细，细节到位，质感好，结实
+          image: https://pixpro.coul.top/i/2025/04/20/248346.webp
+          link: https://item.jd.com/100118691280.html#crumb-wrap
+        - name: 不莱玫旅行包
+          specification: 卡其色
+          description: 不莱玫大容量旅行包，手提斜挎收纳行李包行李箱附加包
+          image: https://pixpro.coul.top/i/2025/05/09/640942.webp
+          link: https://bulaimei.tmall.com/shop/view_shop.htm?spm=pc_detail.29232929/evo365560b447257.shop_block.dshopinfo.58b47dd6nn5gw5
+
+    - title: 玩具
+      description: 充实自己，提升技能
+      equipment_list:
+        - name: voron2.4r2 3D打印机
+          specification: 黑橙配色，350mm×350mm×400mm算挺大的了，hhh
+          description: 玩3d打印机太难了，一路坎坎坷坷，没有大佬带多半还是个烂尾工程，还是到手食用的舒服啊！卡着自调平过不去还刮坏好几张板，泪目zhang
+          image: https://pixpro.coul.top/i/2025/04/17/771679.webp
+          link: https://vorondesign.com/voron2.4
+        - name: nas04
+          specification: 9900k/40G/3T，硬盘都是矿渣，玩玩~
+          description: 自行建模的机箱，已在拓竹社区开源，还有些精度问题后续优化
+          image: https://pixpro.coul.top/i/2025/04/17/874466.webp
+          link: https://makerworld.com.cn/zh/models/613275-nas-04?from=search
+
+        - name: 亚瑟 AX1800 PRO
+          specification: CPU:IPQ6000，Cortex-A53架构，内置1.5GHz NPU，算力11040DMIPS；内存2G运行内存；256G 闪存
+          description: 亚瑟AX1800PRO改魔改2G运行内存，写入大雕的QWRT，破解校园网设备限制刚需，搭配crontab计划任务实现每天自动认证
+          image: https://pixpro.coul.top/i/2025/04/17/921893.webp
+          link: https://item.jd.com/100011436133.html?cu=true&utm_source=lianmeng__10__baijiahao.baidu.com&utm_medium=tuiguang&utm_campaign=t_1001904463_1003195454_4100648883_3004169866&utm_term=25c4b51df6da4b449064ee177d43aa76
+        - name: 雅典娜 AX6600
+          specification: 高通IPQ6010，集成单核1.5GHz NPU网络加速引擎；内存3G运行内存；256G 闪存
+          description: 雅典娜魔改3G运行内存，搭配clash分流规则和NSS ECM加速引擎+全锥形NAT+BBR 拥塞控制算法
+          image: https://pixpro.coul.top/i/2025/04/17/998637.webp
+          link: https://item.jd.com/100011436133.html?cu=true&utm_

@@ -1,0 +1,112 @@
+- class_name: 关于页
+  subtitle: 允许自己笨拙，今天只负责温柔✨
+  avatarImg: https://pixpro.coul.top/i/2025/04/17/366541.webp
+  avatarSkills:
+    left:
+      - 🤖️ 数码科技爱好者
+      - 🔍 分享与热心帮助
+      - 🏠 智能家居小能手
+      - 🔨 设计开发小趴菜
+    right:
+      - 专修交互与设计 🤝
+      - 脚踏实地行动派 🏃
+      - 团队小组发动机 🧱
+      - 人懒~狠话不多 💢
+  name: coul | 罆頭
+  description: 是一名 不喜欢建模画板、看代码的负鼠学生、不独立开发者、网络工程爱好者
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: EDU,集成电路专业
+        color: "#357ef5"
+      - desc: EDU,网络工程爱好者
+        color: "#357ef5"
+      - desc: EDU,懒癌晚期患者
+        color: "#357ef5"
+    img: https://pixpro.coul.top/i/2025/04/17/083967.webp
+  statistic:
+    link: /archives/
+    text: 文章隧道
+    cover: https://pixpro.coul.top/i/2025/04/17/863741.webp
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，广州市
+    background: https://pixpro.coul.top/i/2025/04/17/962599.webp
+    backgroundDark: https://pixpro.coul.top/i/2025/04/17/256235.webp
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2004
+    selfInfoTips2: 家里蹲
+    selfInfoContent2: 集成电路专业
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 大二鼠鼠👨‍🎓
+  personalities:
+    author_name: 调停者
+    personality_type: INFP-T
+    photo_url: https://pixpro.coul.top/i/2025/04/19/519208.webp
+    personality_img: https://www.16personalities.com/static/images/personality-types/avatars/email/large/INFP_female.png?v=1
+    name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 有目的的人生才会迷路，
+    maxim_bottom: 我只是来世界散散步。
+  buff:
+    buff_tips: 特长
+    buff_top: 脑回路新奇的 罐頭
+    buff_bottom: 二次元指数 MAX
+  game:
+    game_tips: 爱好游戏
+    game_title: 王者荣耀
+    game_uid: "UID: 犯规的安心"
+    game_bg: https://pixpro.coul.top/i/2025/04/17/319057.webp
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 青之箱
+        href: https://www.bilibili.com/bangumi/media/md22953943
+        cover: https://pixpro.coul.top/i/2025/04/17/817598.webp
+      - name: 关于我转生变成史莱姆这档事 第四季
+        href: https://www.bilibili.com/bangumi/media/md23154901
+        cover: https://pixpro.coul.top/i/2025/04/17/884369.webp
+      - name: 杖与剑的魔剑谭
+        href: https://www.bilibili.com/bangumi/media/md23287785
+        cover: https://pixpro.coul.top/i/2025/04/17/868605.webp
+      - name: 葬送的芙莉莲 
+        href: https://www.bilibili.com/bangumi/media/md21087073
+        cover: https://pixpro.coul.top/i/2025/04/17/016773.webp
+      - name: 夏目友人帐 第七季
+        href: https://www.bilibili.com/bangumi/media/md23053814
+        cover: https://pixpro.coul.top/i/2025/04/17/375755.webp
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://pixpro.coul.top/i/2025/04/17/950688.webp
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 放松、治愈、快乐
+    music_bg: https://pixpro.coul.top/i/2025/04/17/197431.webp
+    music_link: /music
+  reward_list:
+    - name: 托马斯
+      amount: 10
+      datatime: 2022-08-19
+    - name: 哇是猫猫欸
+      amount: 1.34
+      datatime: 2022-08-19
+      suffix: 贝壳

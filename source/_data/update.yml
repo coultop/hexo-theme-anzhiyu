@@ -1,0 +1,6 @@
+- top_background: "https://pixpro.coul.top/i/2025/04/17/366976.webp"
+  class_name: "日志"
+  description: "本站日志"
+  tip: "这里是本站的更新日志"
+  buttonLink: "https://blog.coul.top/about/"
+  buttonText: "关于本站"

@@ -1,0 +1,118 @@
+- class_name: 游戏世界
+  description: 我的游戏世界
+  tip: 跟 罐頭 一起探索世界
+  top_background: https://permalink.dogevideo.com/player/get.mp4?vcode=54a6f09e26fdc955&userId=11181&vtype=10&flsign=79756b103ab613c0d3506742ee2d868a&ext=.mp4 # https://pixpro.coul.top/i/2025/04/17/748496.webp
+  buttonText: Steam
+  buttonLink: https://steamcommunity.com/
+  good_games:
+    - title: 风景一绝
+      description: 不会错过的风景
+      games_list:
+        - name: 怪物猎人：荒野
+          specification: CAPCOM Co., Ltd.
+          description: "狂野凶猛的大自然，袭来。 时刻都在动态变化的原野。 这是个关于生活在具有两面性的世界中的怪物与人们的故事。 进化的狩猎动作，寻求连续不断的沉浸感，究极的狩猎体验正等待你的到来。"
+          image: https://pixpro.coul.top/i/2025/04/17/998349.webp
+          link: https://store.steampowered.com/app/2246340/Monster_Hunter_Wilds/root
+
+        - name: 地平线4
+          specification: Xbox Game Studios
+          description: "在世界上最盛大的汽车嘉年华上，不断变化的赛季改变着一切。单枪匹马或者与其他人组队，在一个共享开放世界中探索美丽而富有历史气息的英国。收集、改装和驾驶超过 450 辆车辆。尽情竞速、表演特技、创造和探索：选择您专属的方式来成为地平线中的超级巨星。"
+          image: https://pixpro.coul.top/i/2025/04/22/881594.webp
+          link: https://store.steampowered.com/app/1293830/_4/
+
+        - name: GTA:5
+          specification: Rockstar Games
+          description: 体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。
+          image: https://pixpro.coul.top/i/2025/04/18/753012.webp
+          link: https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V/
+
+
+        - name: 大表哥2
+          specification: Rockstar Games
+          description: "Red Dead Redemption 2 已荣获超过 175 项年度游戏奖项且获得超过 250 个满分评价，游戏中述说亚瑟·摩根和声名狼藉的范德林德帮派的传奇故事，体验在 19 世纪的最后岁月里横跨美国的亡命之旅。除此之外，还可免费享受 Red Dead 在线模式中与众多玩家共享的逼真世界。"
+          image: https://pixpro.coul.top/i/2025/04/22/416296.webp
+          link: https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/
+
+        - name: 巫师3：狂猎
+          specification: CD Projekt RED
+          description: "您是利维亚的杰洛特，收钱办事的怪物杀手。您可以在眼前这片怪物横行、饱受战火摧残的土地上尽情探索。您手上的委托？追踪预言之子——希里，一件足以改变世界面貌的活生生的武器。"
+          image: https://pixpro.coul.top/i/2025/04/17/285713.webp
+          link: https://store.steampowered.com/app/292030/_3/
+
+        - name: 无人深空
+          specification: Rockstar Games
+          description: 《无人深空》是一款打破边界的科幻游戏，通过创新的随机生成技术，打造了一个无尽宇宙供玩家自由探索，玩家可以穿越星际、挖掘未知星球、建立基地并与神秘外星生物共生，每个探险家都将书写属于自己的宇宙传奇。
+          image: https://pixpro.coul.top/i/2025/04/22/973022.webp
+          link: https://store.steampowered.com/app/275850/No_Mans_Sky/
+
+        - name: 命运2
+          specification: Rockstar Games
+          description: 命运2是发生在一个独立进化的世界中的一款免费的大型多人线上动作游戏。你可以在任何时间与任何地点和你的朋友们进行游戏。
+          image: https://pixpro.coul.top/i/2025/04/22/427478.webp
+          link: https://store.steampowered.com/app/1085660/2/
+
+        - name: 荒野召唤
+          specification:  Avalanche Studios
+          description: "在这个风光旖旎又栩栩如生的开放世界中，体验与众不同、身临其境的狩猎游戏——我们与游戏社区携手合作，定期更新。可选择投身于单人狩猎模式，或与好友分享终极狩猎体验。"
+          image: https://pixpro.coul.top/i/2025/04/22/488871.webp
+          link: https://store.steampowered.com/app/518790/_/
+
+    - title: 我的最爱
+      description: 我不能没有它了
+      games_list:
+        - name: 战地5
+          specification: Electronic Arts
+          description: 这就是终极《战地风云 5》体验。用完整的武器、载具和配备武器库以及第 1 年和第 2 年最棒的自定义内容体验人类历史上规模最大的冲突。
+          image: https://pixpro.coul.top/i/2025/04/17/113543.webp
+          link: https://store.steampowered.com/app/1238810/_5/
+
+        - name: 猛兽派对
+          specification: Source Technology
+          description: 这是一款基于物理的多人派对游戏。选择你喜欢的小动物角色，和朋友们一起挑战其他玩家，或者展开激烈的对决吧！看到毛绒绒的小动物们你还不心动吗？
+          image: https://pixpro.coul.top/i/2025/04/17/073964.webp
+          link: https://store.steampowered.com/app/1260320/_/
+
+        - name: 八宝粥
+          specification: TiMi Studio Group
+          description: 《Delta Force》经典系列回归！ 这款绝佳免费现代小队战术射击游戏将推出三大独特游戏模式： 大规模PvP全面战场、 紧张刺激的撤离射击行动， 以及“黑鹰坠落”传奇战役重制版。
+          image: https://pixpro.coul.top/i/2025/04/17/384251.webp
+          link: https://store.steampowered.com/app/2507950/_/
+
+        - name: 文明6
+          specification: 2K, Aspyr (Mac), Aspyr (Linux)
+          description: 扩张疆域，发展文化，并与历史上最伟大的领袖正面交锋。你的文明是否能经得起时间的考验？
+          image: https://pixpro.coul.top/i/2025/04/22/703858.webp
+          link: https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/
+
+        - name: 纪元1800
+          specification: Rockstar Games
+          description: 在《Anno 1800》里引领工业革命！ 体验史上瞬息万变的精彩时期之一。发现新科技、新大陆和新社会。打造你梦想中的新世界！
+          image: https://pixpro.coul.top/i/2025/04/17/009702.webp
+          link: https://store.steampowered.com/app/916440/Anno_1800/
+
+        - name: 使命召唤
+          specification: Rockstar Games
+          description: 使命召唤®体验支持《使命召唤®：黑色行动 6》，《使命召唤®：现代战争® III 2023》，《使命召唤®：现代战争® II 2022》和《使命召唤®：战争地带™》。
+          image: https://pixpro.coul.top/i/2025/04/17/786445.webp
+          link: https://store.steampowered.com/app/1938090/_/
+
+    - title: 手游
+      description: 休闲娱乐
+      games_list:
+        - name: 崩坏3
+          specification: Honkai Impact 3rd
+          description: 手感不错，玩起来还是有些肝，
+          image: https://pixpro.coul.top/i/2025/04/17/442678.webp
+          link: https://www.xiaoheihe.cn/games/detail/271590
+
+        - name: 王者荣耀
+          specification: Rockstar Games
+          description: 单排不玩系列，好无趣~.
+          image: https://pixpro.coul.top/i/2025/04/17/294228.webp
+          link: https://www.xiaoheihe.cn/games/detail/271590
+          
+        - name: 鸣潮
+          specification: Wuthering Waves
+          description: 很肝，爆率低，差点突破成为肝帝了tuipo ~.
+          image: https://pixpro.coul.top/i/2025/04/17/818767.webp
+          link: https://www.xiaoheihe.cn/games/detail/271590

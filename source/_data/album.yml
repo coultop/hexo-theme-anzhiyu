@@ -1,0 +1,283 @@
+- class_name: 世界各地夕阳与风景
+  path_name: /wordScenery
+  type: 2
+  description: 因为到不了世界各地，所以请网友们发来了各地的夕阳与风景🌇。
+  cover: https://pixpro.coul.top/i/2025/04/17/887041.webp
+  top_background: https://pixpro.coul.top/i/2025/04/17/376637.webp
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2024/10/26 01:00:00
+      content: 固始的一角。
+      address: 河南·固始
+      from: YY.太阳
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/852111.webp
+    - date: 2024-10-25
+      content: 学校傍晚梦幻的天空。
+      address: 广州·白云
+      from: YY.太阳
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/239027.webp
+        - https://pixpro.coul.top/i/2025/04/17/107611.webp
+    - date: 2025-4-21
+      content: 学校傍晚的夕阳
+      address: 广州·白云
+      from: YY.太阳
+      image:
+        - https://pixpro.coul.top/i/2025/04/21/007779.webp
+        - https://pixpro.coul.top/i/2025/04/21/228054.webp
+
+    - date: 2024-10-25
+      content: 学校夕阳下金灿灿的天空。
+      address: 河源·河职院
+      from: ......
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/519757.webp
+        - https://pixpro.coul.top/i/2025/04/17/975436.webp
+    - date: 2024-10-25
+      content: 太可啦~
+      address: 河源
+      from: 莫问出处
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/710313.webp
+        - https://pixpro.coul.top/i/2025/04/17/554939.webp
+        - https://pixpro.coul.top/i/2025/04/17/921460.webp
+
+    - date: 2024-10-25
+      content: 不错的落日余晖
+      address: 增城·新塘
+      from: 迷人的哈基鸽
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/604908.webp
+        - https://pixpro.coul.top/i/2025/04/17/614867.webp
+
+    - date: 2024-10-25
+      content: 夕阳美景~
+      address: 肇庆
+      from: Yvv
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/312189.webp
+
+    - date: 2024-10-2
+      content: 夕阳美景~
+      address: 东莞·松山湖
+      from: 拉丝王
+      image:
+        - https://pixpro.coul.top/i/2025/04/20/490727.webp
+        - https://pixpro.coul.top/i/2025/04/20/102732.webp
+
+    - date: 2024-10-2
+      content: 夕阳美景~
+      address: 揭阳·揭西
+      from: 拉丝王
+      image:
+        - https://pixpro.coul.top/i/2025/04/20/131613.webp
+
+    - date: 2025-2-2
+      content: 油画里的江西
+      address: 江西
+      from: 咸鱼鲨
+      image:
+        - https://pixpro.coul.top/i/2025/04/22/259990.webp
+
+    - date: 2025-2-2
+      content:  落霞与孤鹜齐飞，秋水共长天一色
+      address: 湖南
+      from: xxx
+      image:
+        - https://pixpro.coul.top/i/2025/04/22/506462.webp
+
+    - date: 2025-2-2
+      content:  复古的海南街边风景~
+      address: 海南
+      from: xxx
+      image:
+        - https://pixpro.coul.top/i/2025/04/22/834618.webp
+
+    - date: 2025-2-2
+      content:  苍山下⛰️ 洱海旁🌊
+      address: 大理·苍山
+
+      from: xxx
+      image:
+        - https://pixpro.coul.top/i/2025/04/22/332305.webp
+
+    - date: 2025-2-2
+      content:  夏日广州
+      address: 广州
+      from: xxx
+      image:
+        - https://pixpro.coul.top/i/2025/04/22/616798.webp
+
+    - date: 2025-2-2
+      content:  长白山天池落日
+      address: 长白山
+      from: xxx
+      image:
+        - https://pixpro.coul.top/i/2025/04/22/979641.webp
+        - https://pixpro.coul.top/i/2025/04/22/530288.webp
+        - https://pixpro.coul.top/i/2025/04/22/534537.webp
+        - https://pixpro.coul.top/i/2025/04/22/466226.webp
+        - https://pixpro.coul.top/i/2025/04/22/021089.webp
+        - https://pixpro.coul.top/i/2025/04/22/269384.webp
+        - https://pixpro.coul.top/i/2025/04/22/173842.webp
+
+    - date: 2025-2-2
+      content:  春日漫步十里江湾畔~
+      address: 春日江边
+      from: xxx
+      image:
+        - https://pixpro.coul.top/i/2025/04/22/049914.webp
+        - https://pixpro.coul.top/i/2025/04/22/446429.webp
+        - https://pixpro.coul.top/i/2025/04/22/079700.webp
+        - https://pixpro.coul.top/i/2025/04/22/991411.webp
+        - https://pixpro.coul.top/i/2025/04/22/348950.webp
+        - https://pixpro.coul.top/i/2025/04/22/481438.webp
+        - https://pixpro.coul.top/i/2025/04/22/109024.webp
+        - https://pixpro.coul.top/i/2025/04/22/319450.webp
+
+
+
+
+- class_name: 我的日常
+  path_name: /dailyPhoto
+  type: 1
+  description: 这里存放的是有关研究的项目和有趣的事情。
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://pixpro.coul.top/i/2025/04/17/914591.webp
+  cover: https://pixpro.coul.top/i/2025/04/17/762449.png 
+  album_list:
+    - date: 2024-11-09
+      content: 3d建模4盘位机箱，误差问题太难崩了，测试成本有点高了，吃不消
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/708206.webp  
+        - https://pixpro.coul.top/i/2025/04/17/427360.webp 
+        - https://pixpro.coul.top/i/2025/04/17/600705.webp  
+        - https://pixpro.coul.top/i/2025/04/17/525531.webp  
+        - https://pixpro.coul.top/i/2025/04/17/422062.webp  
+        - https://pixpro.coul.top/i/2025/04/17/680551.webp  
+        - https://pixpro.coul.top/i/2025/04/17/592418.webp  
+ 
+    - date: 2024-10-21
+      content: 建站~ 基于diy的hexo主题搭建的个人博客
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/420808.webp  
+        - https://pixpro.coul.top/i/2025/04/17/117374.webp 
+        - https://pixpro.coul.top/i/2025/04/17/234375.webp  
+
+    - date: 2023-7-9
+      content: DIY光轴置物架~建模出图，感觉还是不错的，hhh~
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/715812.webp  
+        - https://pixpro.coul.top/i/2025/04/17/966830.webp  
+        - https://pixpro.coul.top/i/2025/04/17/961292.webp  
+        - https://pixpro.coul.top/i/2025/04/17/587537.webp
+        - https://pixpro.coul.top/i/2025/04/21/780406.webp
+        - https://pixpro.coul.top/i/2025/04/21/045172.webp 
+        - https://pixpro.coul.top/i/2025/04/21/535547.webp
+
+    - date: 2023-7-9
+      content: ALL in one~ pve部署nas(黑裙洗半白。核显直通解决不了,相册任务识别失败)、openwrt科学上网、ubuntu
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/333729.webp  
+        - https://pixpro.coul.top/i/2025/04/17/939326.webp 
+        - https://pixpro.coul.top/i/2025/04/17/317585.webp
+        - https://pixpro.coul.top/i/2025/04/17/511658.webp  
+        - https://pixpro.coul.top/i/2025/04/17/419118.webp  
+        - https://pixpro.coul.top/i/2025/04/17/556831.webp  
+        - https://pixpro.coul.top/i/2025/04/17/818269.webp 
+ 
+    - date: 2024-10-8
+      content: voron2.4r2~diy之旅的开始~组装完成
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/868449.webp
+        - https://pixpro.coul.top/i/2025/04/17/735544.webp 
+        - https://pixpro.coul.top/i/2025/04/17/160239.webp 
+        - https://pixpro.coul.top/i/2025/04/17/996240.webp
+        - https://pixpro.coul.top/i/2025/04/17/449398.webp
+        - https://pixpro.coul.top/i/2025/04/17/555797.webp  
+        - https://pixpro.coul.top/i/2025/04/17/703543.webp  
+        - https://pixpro.coul.top/i/2025/04/17/073770.webp
+
+    - date: 2025-3-15
+      content: 使用QWRT内置的crontab计划任务实现每天自动认证校园网，也是解放双手啦~另外通过SQM规则整流WiFi和wan口的流量真的降低延迟不少ch~
+      image:
+         - https://pixpro.coul.top/i/2025/04/17/703904.webp 
+         - https://pixpro.coul.top/i/2025/04/17/874903.webp  
+         - https://pixpro.coul.top/i/2025/04/17/560335.webp  
+         - https://pixpro.coul.top/i/2025/04/17/049938.webp 
+         - https://pixpro.coul.top/i/2025/04/19/162285.webp
+         - https://pixpro.coul.top/i/2025/04/17/715745.webp
+
+    - date: 2025-3-15
+      content: 使用clash分流还是很舒服的，虽然流量已经加密了，但偶尔还是会卡退校园网
+      image:
+         - https://pixpro.coul.top/i/2025/04/18/366379.webp
+         - https://pixpro.coul.top/i/2025/04/19/565661.webp  
+         - https://pixpro.coul.top/i/2025/04/19/342985.webp
+         - https://pixpro.coul.top/i/2025/04/19/469586.webp
+        
+
+- class_name: 游戏时刻
+  path_name: /gamePhoto
+  type: 1
+  description: 这里存放的是我的游戏时刻。
+  limit: 10
+  rowHeight: 220
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://pixpro.coul.top/i/2025/04/17/036701.webp
+  cover: https://pixpro.coul.top/i/2025/04/17/748996.webp
+  album_list:
+    - date: 2024-11-09
+      content: 自建服务器~开服拉上饥荒大佬[微尘]一起开荒打怪刷天体，美滋滋
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/590346.webp 
+        - https://pixpro.coul.top/i/2025/04/17/877914.webp
+        - https://pixpro.coul.top/i/2025/04/17/135054.webp  
+        - https://pixpro.coul.top/i/2025/04/17/073831.webp 
+        - https://pixpro.coul.top/i/2025/04/17/675579.webp 
+        - https://pixpro.coul.top/i/2025/04/17/378817.webp  
+        - https://pixpro.coul.top/i/2025/04/17/029200.webp
+        - https://pixpro.coul.top/i/2025/04/17/993816.webp
+
+    - date: 2024-11-09
+      content: 自娱休闲联机游戏，和朋友一起玩还是不错的~
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/935411.webp
+        - https://pixpro.coul.top/i/2025/04/17/042408.webp  
+        - https://pixpro.coul.top/i/2025/04/17/905676.webp
+
+    - date: 2025-2-09
+      content: 大表各3a大作，画质剧情都挺不错ting
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/736805.webp
+        - https://pixpro.coul.top/i/2025/04/17/507124.webp
+        - https://pixpro.coul.top/i/2025/04/17/245010.webp  
+        - https://pixpro.coul.top/i/2025/04/17/091420.webp   
+      
+    - date: 2024-7-15
+      content: 文明6太肝了，考研之路....,7*18才到大后期，不过是喜欢系列
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/430853.webp 
+        - https://pixpro.coul.top/i/2025/04/17/847935.webp 
+        - https://pixpro.coul.top/i/2025/04/17/428058.webp
+        - https://pixpro.coul.top/i/2025/04/17/427429.webp
+
+    - date: 2025-3-6
+      content: mini上的王国保卫战guo 的日常，休闲小游戏~
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/576949.webp 
+        - https://pixpro.coul.top/i/2025/04/17/728852.webp
+        - https://pixpro.coul.top/i/2025/04/17/951478.webp
+        - https://pixpro.coul.top/i/2025/04/17/919825.webp

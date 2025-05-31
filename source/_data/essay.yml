@@ -1,0 +1,183 @@
+- title: 即刻短文
+  subTitle: 罐頭的日常生活。
+  tips: 随时随地，分享生活
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: https://pixpro.coul.top/i/2025/04/17/164534.webp
+  essay_list:
+    - content: 罐頭部署图床、监测、封面、alist、博客、随机图、twikoo、waline、简介部署nie
+      date: 2025/04/06
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/942061.webp
+        - https://pixpro.coul.top/i/2025/04/17/229544.webp
+        - https://pixpro.coul.top/i/2025/04/17/819902.webp
+        - https://pixpro.coul.top/i/2025/04/17/567334.webp
+        - https://pixpro.coul.top/i/2025/04/17/387083.webp
+        - https://pixpro.coul.top/i/2025/04/17/763858.webp
+        - https://pixpro.coul.top/i/2025/04/17/139098.webp
+        
+
+
+    - date: 2024-11-09
+      content: 3d建模4盘位机箱，误差问题太难崩了，测试成本有点高了，吃不消
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/708206.webp  
+        - https://pixpro.coul.top/i/2025/04/17/427360.webp 
+        - https://pixpro.coul.top/i/2025/04/17/600705.webp  
+        - https://pixpro.coul.top/i/2025/04/17/525531.webp  
+        - https://pixpro.coul.top/i/2025/04/17/422062.webp  
+        - https://pixpro.coul.top/i/2025/04/17/680551.webp  
+        - https://pixpro.coul.top/i/2025/04/17/592418.webp   
+ 
+    - date: 2024-10-21
+      content: 建站~ 基于diy的hexo主题搭建的个人博客
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/420808.webp  
+        - https://pixpro.coul.top/i/2025/04/17/117374.webp 
+        - https://pixpro.coul.top/i/2025/04/17/234375.webp  
+
+    - date: 2023-7-9
+      content: DIY光轴置物架~建模出图，感觉还是不错的，hhh~
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/715812.webp  
+        - https://pixpro.coul.top/i/2025/04/17/966830.webp  
+        - https://pixpro.coul.top/i/2025/04/17/961292.webp  
+        - https://pixpro.coul.top/i/2025/04/17/587537.webp
+        - https://pixpro.coul.top/i/2025/04/21/780406.webp
+        - https://pixpro.coul.top/i/2025/04/21/045172.webp 
+        - https://pixpro.coul.top/i/2025/04/21/535547.webp
+
+    - date: 2023-7-9
+      content: ALL in one~ pve部署nas(黑裙洗半白。核显直通解决不了,相册任务识别失败)、openwrt科学上网、ubuntu
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/333729.webp  
+        - https://pixpro.coul.top/i/2025/04/17/939326.webp 
+        - https://pixpro.coul.top/i/2025/04/17/317585.webp
+        - https://pixpro.coul.top/i/2025/04/17/511658.webp  
+        - https://pixpro.coul.top/i/2025/04/17/419118.webp  
+        - https://pixpro.coul.top/i/2025/04/17/556831.webp  
+        - https://pixpro.coul.top/i/2025/04/17/818269.webp 
+ 
+    - date: 2024-10-8
+      content: voron2.4r2~diy之旅的开始~组装完成
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/868449.webp
+        - https://pixpro.coul.top/i/2025/04/17/735544.webp 
+        - https://pixpro.coul.top/i/2025/04/17/160239.webp 
+        - https://pixpro.coul.top/i/2025/04/17/996240.webp
+        - https://pixpro.coul.top/i/2025/04/17/449398.webp
+        - https://pixpro.coul.top/i/2025/04/17/555797.webp  
+        - https://pixpro.coul.top/i/2025/04/17/703543.webp  
+        - https://pixpro.coul.top/i/2025/04/17/073770.webp
+
+    - date: 2025-3-15
+      content: 使用QWRT内置的crontab计划任务实现每天自动认证校园网，也是解放双手啦~另外通过SQM规则整流WiFi和wan口的流量真的降低延迟不少ch~
+      image:
+         - https://pixpro.coul.top/i/2025/04/17/703904.webp 
+         - https://pixpro.coul.top/i/2025/04/17/874903.webp  
+         - https://pixpro.coul.top/i/2025/04/17/560335.webp  
+         - https://pixpro.coul.top/i/2025/04/17/049938.webp 
+         - https://pixpro.coul.top/i/2025/04/19/162285.webp
+         - https://pixpro.coul.top/i/2025/04/17/715745.webp
+
+    - date: 2025-3-15
+      content: 使用clash分流还是很舒服的，虽然流量已经加密了，但偶尔还是会卡退校园网
+      image:
+         - https://pixpro.coul.top/i/2025/04/18/366379.webp
+         - https://pixpro.coul.top/i/2025/04/19/565661.webp  
+         - https://pixpro.coul.top/i/2025/04/19/342985.webp
+         - https://pixpro.coul.top/i/2025/04/19/469586.webp
+
+    - date: 2024-4-26
+      content: 因为宿舍没空间，所以先买板刷klipper，香橙派3b开发板，8g+64gemmc，折腾了一个星期hhh~
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/727250.webp  
+        - https://pixpro.coul.top/i/2025/04/17/596330.webp 
+        - https://pixpro.coul.top/i/2025/04/17/509950.webp 
+        - https://pixpro.coul.top/i/2025/04/17/723250.webp
+
+    - date: 2024-4-26
+      content: 也是得吃，换上了不务正业家的键帽啊，真的巨好看，太可啦 keycap~
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/563337.webp
+        - https://pixpro.coul.top/i/2025/04/17/187589.webp
+
+    - date: 2025-4-15
+      content: 在朋友的提醒下，成功白嫖了一个三丽鸥新韵花裳系列的盲盒，感觉还是不错的，hhh~
+      image:
+        - https://pixpro.coul.top/i/2025/04/17/931758.webp
+        - https://pixpro.coul.top/i/2025/04/17/410329.webp
+        - https://pixpro.coul.top/i/2025/04/17/521626.webp
+
+    - date: 2025-4-13
+      content: 突发奇想，没有公网，那直接将nas部署到服务器上，便使用华为镜像桶制作了fnOS安装镜像，hhh~
+      image:
+        - https://pixpro.coul.top/i/2025/04/18/851888.webp
+        - https://pixpro.coul.top/i/2025/04/18/719050.webp
+        - https://pixpro.coul.top/i/2025/04/18/730080.webp
+        - https://pixpro.coul.top/i/2025/04/18/765148.webp
+
+    - date: 2025-4-17
+      content: 服务器突然炸服一个星期，绷不住，找运维换机子，文件备份却又没完全备份，数据库没拿下，图床部署只能重新来
+      image:
+        - https://pixpro.coul.top/i/2025/04/20/226177.webp
+        - https://pixpro.coul.top/i/2025/04/20/175782.webp
+        - https://pixpro.coul.top/i/2025/04/20/923387.webp
+        - https://pixpro.coul.top/i/2025/04/20/372826.webp
+        - https://pixpro.coul.top/i/2025/04/20/237093.webp  
+
+    - date: 2024-11-05
+      content: 电路版图设计tu ~
+      image:
+        - https://pixpro.coul.top/i/2025/04/21/478849.webp
+        - https://pixpro.coul.top/i/2025/04/21/379437.webp
+        - https://pixpro.coul.top/i/2025/04/21/112250.webp
+        - https://pixpro.coul.top/i/2025/04/21/833114.webp
+        - https://pixpro.coul.top/i/2025/04/21/825829.webp
+        - https://pixpro.coul.top/i/2025/04/21/959008.webp
+
+    - date: 2024-8-17
+      content: 打印硬盘笼，设计机箱ji~
+      image:
+        - https://pixpro.coul.top/i/2025/04/21/907121.webp
+        - https://pixpro.coul.top/i/2025/04/21/605705.webp
+        - https://pixpro.coul.top/i/2025/04/21/346545.webp
+        - https://pixpro.coul.top/i/2025/04/21/934417.webp
+        - https://pixpro.coul.top/i/2025/04/21/047357.webp
+        - https://pixpro.coul.top/i/2025/04/21/113104.webp 
+
+    - date: 2024-6-10
+      content: 电脑清灰，玩铝型材
+      image:
+        - https://pixpro.coul.top/i/2025/04/21/363625.webp
+        - https://pixpro.coul.top/i/2025/04/21/895168.webp
+        - https://pixpro.coul.top/i/2025/04/21/525748.webp
+        - https://pixpro.coul.top/i/2025/04/21/077375.webp
+        - https://pixpro.coul.top/i/2025/04/21/980956.webp
+ 
+    - date: 2024-6-10
+      content: 母亲包的饺子，另外在宿舍和舍友打小火锅，第二天就难受了，绷不住，hhh~
+      image:
+        - https://pixpro.coul.top/i/2025/04/21/831511.webp
+        - https://pixpro.coul.top/i/2025/04/21/394043.webp
+        - https://pixpro.coul.top/i/2025/04/21/260194.webp
+
+    - date: 2024-12-10
+      content: 单片机浅玩一下
+      image:
+        - https://pixpro.coul.top/i/2025/04/21/255446.webp
+        - https://pixpro.coul.top/i/2025/04/21/278901.webp
+
+    - date: 2024-10-6
+      content: 放假学校没人，网速好高，hhh~，平时的无线频段真多，附图·
+      image:
+        - https://pixpro.coul.top/i/2025/04/21/066196.webp
+        - https://pixpro.coul.top/i/2025/04/21/108130.webp
+
+    - date: 2025-4-21
+      content: 域名被腾讯封禁，申述解封，难崩，hhh~
+      image:
+        - https://pixpro.coul.top/i/2025/04/22/800119.webp
+        - https://pixpro.coul.top/i/2025/04/22/172131.webp

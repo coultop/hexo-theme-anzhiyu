@@ -1,0 +1,42 @@
+# seat控制清单在左栏还是右栏显示，completed控制是否已完成
+- class_name: 想做的项目
+  seat: left
+  todo_list:
+    - content: 拉专线，部署公网服务器
+      completed: false
+    - content: 小程序
+      completed: false
+
+- class_name: 想看的书
+  seat: left
+  todo_list:
+    - content: 《穷爸爸和富爸爸》
+      completed: false
+    - content: 《活着》
+      completed: false
+
+- class_name: 想买的东西
+  seat: left
+  todo_list:
+    - content: ipad pro
+      completed: false
+    - content: 4k显示器
+      completed: false
+
+- class_name: 想学的技术
+  seat: right
+  todo_list:
+    - content: css,js,html,vue
+      completed: false
+    - content: python
+      completed: false
+
+- class_name: 想去的地方
+  seat: right
+  todo_list:
+    - content: 北京-故宫
+      completed: false
+    - content: 冰岛-杰古沙龙冰河湖
+      completed: false
+    - content: 香港-太平山凌霄閣摩天台 
+      completed: false
