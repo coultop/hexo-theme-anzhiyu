@@ -1,0 +1,16 @@
+#update
+  if site.data.update
+    each i in site.data.update
+      .author-content.author-content-item.UpdatePage.single(style = `background: url(${i.top_background}) left 37% / cover no-repeat !important;`)
+        .card-content
+          .author-content-item-tips=i.class_name
+          span.author-content-item-title=i.description
+          .content-bottom
+            .tips=i.tip
+          .banner-button-group
+            a.banner-button(href=i.buttonLink)
+              i.anzhiyufont.anzhiyu-icon-arrow-circle-right(style='font-size: 1.3rem')
+              span.banner-button-text=i.buttonText
+
+  #article-container
+    != page.content
