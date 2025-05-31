@@ -26,32 +26,6 @@ menu:
      本站日志: /update/ || anzhiyu-icon-hourglass-start
      我的装备: /equipment/ || anzhiyu-icon-dice-d20
 
-#envelope_comment
-#seehttps://akilar.top/posts/e2d3c450/
-envelope_comment:
-  enable: true #控制开关
-  custom_pic:
-    cover: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/violet.jpg #信笺头部图片
-    line: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/line.png #信笺底部图片
-    beforeimg: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/before.png # 信封前半部分
-    afterimg: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/after.png # 信封后半部分
-  message: #信笺正文，多行文本，写法如下
-    - 有什么想问的？
-    - 有什么想说的？
-    - 有什么想吐槽的？
-    - 哪怕是有什么想吃的，都可以告诉我哦~
-  bottom: 自动书记人偶竭诚为您服务！ #仅支持单行文本
-  height: #1024px，信封划出的高度
-  easy_Danmaku_js: https://npm.onmicrosoft.cn/naokuo-blog@1.2.12/js/easy-Danmaku.js # 源码：https://github.com/pprory/easyDanmaku
-  danmu_page: '/comments/' # 即留言板地址
-  danmu_el: 'danmu-wrap' # 弹幕挂载节点
-  danmu_line: 5 # 弹幕行数
-  danmu_speed: 20 # 弹幕播放速度
-  danmu_hover: true # 鼠标hover时是否暂停播放弹幕
-  danmu_loop: false # 开启循环播放
-  danmu_runtime: 10 # 循环弹幕播放时长
-  danmu_colourful: true # 开启彩色弹幕
-  danmu_coefficient: 1.38 # 弹幕密度系数
 
 # nav相关配置
 nav:
@@ -1422,3 +1396,31 @@ CDN:
     # waterfall:
     # ali_iconfont_css:
     # accesskey_js:
+
+
+#envelope_comment
+#seehttps://akilar.top/posts/e2d3c450/
+envelope_comment:
+  enable: true #控制开关
+  custom_pic:
+    cover: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/violet.jpg #信笺头部图片
+    line: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/line.png #信笺底部图片
+    beforeimg: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/before.png # 信封前半部分
+    afterimg: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/after.png # 信封后半部分
+  message: #信笺正文，多行文本，写法如下
+    - 有什么想问的？
+    - 有什么想说的？
+    - 有什么想吐槽的？
+    - 哪怕是有什么想吃的，都可以告诉我哦~
+  bottom: 自动书记人偶竭诚为您服务！ #仅支持单行文本
+  height: #1024px，信封划出的高度
+  easy_Danmaku_js: https://npm.onmicrosoft.cn/naokuo-blog@1.2.12/js/easy-Danmaku.js # 源码：https://github.com/pprory/easyDanmaku
+  danmu_page: '/comments/' # 即留言板地址
+  danmu_el: 'danmu-wrap' # 弹幕挂载节点
+  danmu_line: 5 # 弹幕行数
+  danmu_speed: 20 # 弹幕播放速度
+  danmu_hover: true # 鼠标hover时是否暂停播放弹幕
+  danmu_loop: false # 开启循环播放
+  danmu_runtime: 10 # 循环弹幕播放时长
+  danmu_colourful: true # 开启彩色弹幕
+  danmu_coefficient: 1.38 # 弹幕密度系数
